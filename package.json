@@ -24,15 +24,12 @@
     "dist/bootstrap-treeview.min.css"
   ],
   "scripts": {
-    "install": "bower install",
-    "start": "node app",
     "test": "grunt test"
   },
   "engines": {
     "node": ">= 0.10.0"
   },
   "devDependencies": {
-    "bower": "1.3.x",
     "express": "3.4.x",
     "ejs": "2.2.x",
     "grunt": "0.4.x",
